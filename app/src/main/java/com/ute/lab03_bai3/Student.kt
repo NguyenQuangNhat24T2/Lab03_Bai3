@@ -1,5 +1,4 @@
-package com.example.lab03_bai3
-
+package com.ute.lab03_bai3
 import java.io.Serializable
 
 data class Student(
